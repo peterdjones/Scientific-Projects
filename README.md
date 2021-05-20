@@ -8,3 +8,6 @@ ApoptosisFlowAnalysis
 
 FlowRNAFlowAnaysisDESeq
   A script applying k-means clustering to some gene expression from artery cells exposed to different blood flow conditions. Using k-means clustering, 5 clusters were identified.   
+
+Heparin motif search
+  A Python script to search a protein sequence for a Heparin binding motif, a variable short protein sequence, using a regular expression
