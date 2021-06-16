@@ -1,7 +1,7 @@
-# portfolio
+# Scientific Projects
 A collection of my R and python scripts used in my scientific research. 
 
-Contents:
+### Scripts in this repository:
 
 ApoptosisFlowAnalysis
   This script extracts complex data from all data files in a folder, normalises and transforms it, then ultimately presents several graphs summarising the data and exports a PDF of graphs as well as a .csv file containing the numerical results. I used this to drastically speed up my analysis of experiemental data, analysis the data manually would take 5-10 minutes for each sample, this script allows processing of a large number of samples with minimal setup. 
